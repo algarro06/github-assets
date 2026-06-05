@@ -22,8 +22,7 @@ Breve tutorial de uso de la aplicación
 <a href="https://algarro06.github.io/github-assets/Breve tutorial de uso de la aplicación con capturas de pantalla y_o material multimedia.pdf">
   📄 Descargar PDF
 </a>
-
-
+<br>
 Bibliografía
 
 - Fuente de PHP: PHP: [PostgreSQL PDO Driver - Manual](https://www.php.net/manual/en/ref.pdo-pgsql.php)
