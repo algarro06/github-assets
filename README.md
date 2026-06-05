@@ -13,4 +13,4 @@ Tecnologías utilizadas:
 - Docker
 - Framework Laravel
 
-![Resultado](https://algarro06.github.io/github-assets/main/BBDDERDIDACTA.drawio.png)
+![Resultado](https://algarro06.github.io/github-assets/BBDDERDIDACTA.drawio.png)
