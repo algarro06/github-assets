@@ -7,7 +7,7 @@ Realizado por Álvaro García Rojas, Iván Ortigosa García y Alejandro Gabriel 
 
 Proyecto Integrado dedicado a una aplicación web de el Grado de Administración de Sistemas Informáticos en Red. Enfocado en el desarrollo de la educación a través de las tecnologías siempre asegurando la privacidad y seguridad de los usuarios.
 
-Buscamos mejorar la calidad de la educación mediante las tecnologías y también mejorar la comodidad de los profesores a la hora de realizar/mandar/gestionar tareas/temario/eventos..... Tenemos un Anteproyecto realizado para curiosidad de cualquiera en el mismo repositorio.
+Buscamos mejorar la calidad de la educación mediante las tecnologías y también mejorar la comodidad de los profesores a la hora de realizar/mandar/gestionar tareas/temario/eventos..... 
 
 ## Tecnologías utilizadas:
 
@@ -22,7 +22,7 @@ Buscamos mejorar la calidad de la educación mediante las tecnologías y tambié
 
 ## Tutorial de cómo ejecutarlo de forma local
 
-<a href="https://algarro06.github.io/github-assets/Breve tutorial de uso de la aplicación con capturas de pantalla y_o material multimedia.pdf">
+<a href="https://algarro06.github.io/github-assets/Ejecucion en local TFG.pdf">
   📄 Descargar PDF
 </a>
 
