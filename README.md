@@ -23,9 +23,11 @@ Breve tutorial de uso de la aplicación
   📄 Descargar PDF
 </a>
 <br><br>
+URL donde se encuentra desplegado el proyecto: [Didacta](https://didacta.onrender.com/)
+
 Bibliografía
 
-- Fuente de PHP: PHP: [PostgreSQL PDO Driver - Manual](https://www.php.net/manual/en/ref.pdo-pgsql.php)
+- Fuente de PHP: [PostgreSQL PDO Driver - Manual](https://www.php.net/manual/en/ref.pdo-pgsql.php)
 
 - Fuente de Docker: [Implementar Contenedores Docker en Hosts Internos | LabEx](https://labex.io/es/tutorials/docker-how-to-deploy-docker-containers-on-internal-hosts-394600)
 
@@ -56,3 +58,5 @@ Bibliografía
 - Documentación JavaScript: [Documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
 
 - Documentación de PHP: [Documentación](https://www.php.net/manual/es/index.php)
+
+Video explicativo del proyecto: [Didacta](https://vimeo.com/1199009257?share=copy&fl=sv&fe=ci)
