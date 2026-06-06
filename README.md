@@ -23,6 +23,7 @@ Breve tutorial de uso de la aplicación
   📄 Descargar PDF
 </a>
 <br><br>
+
 URL donde se encuentra desplegado el proyecto: [Didacta](https://didacta.onrender.com/)
 
 Bibliografía
