@@ -25,14 +25,12 @@ Buscamos mejorar la calidad de la educación mediante las tecnologías y tambié
 <a href="https://algarro06.github.io/github-assets/Breve tutorial de uso de la aplicación con capturas de pantalla y_o material multimedia.pdf">
   📄 Descargar PDF
 </a>
-<br><br>
 
 ## Breve tutorial de uso de la aplicación
 
 <a href="https://algarro06.github.io/github-assets/Breve tutorial de uso de la aplicación con capturas de pantalla y_o material multimedia.pdf">
   📄 Descargar PDF
 </a>
-<br><br>
 
 ## URL donde se encuentra desplegado el proyecto 
 
